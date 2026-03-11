@@ -1,24 +1,25 @@
 # Valary Kones_Portfolio
-Data Science Portfolio
 This repository contains selected data science projects demonstrating skills in data cleaning, exploratory data analysis (EDA), machine learning, and data visualization. The projects focus on transforming real-world datasets into actionable insights using Python and modern data analysis tools.
 
 ---
-# Project 1: Creating County-Level Acute Food Insecurity Early Warning System (Kenya)
+# Project 1: Created County-Level Acute Food Insecurity Early Warning System (Kenya)
 
 **Project Overview**
 
-This project develops a **county-level early warning system to predict acute food insecurity (IPC Phase 3 or worse) in Kenya one month in advance**. The objective is to identify counties at high risk of food insecurity using historical data and machine learning models, enabling earlier policy and humanitarian response.
+- Developed a **county-level early warning system** to predict **acute food insecurity (IPC Phase 3+) in Kenya one month in advance**, enabling earlier identification of high-risk regions for policy and humanitarian response.
 
-To build the prediction system, multiple machine learning models were trained and evaluated, including:
+- Aggregated and integrated **multi-source datasets** (climate indicators, conflict events, and market price data) to construct a **county–month level analytical dataset** for predictive modeling.
 
-- Logistic Regression
-- Random Forest
-- XGBoost
+- Performed **data preprocessing and feature engineering**, including data cleaning, normalization, handling missing values, and creating predictive variables to capture environmental and socio-economic risk factors.
 
-These models were applied to a multi-source dataset combining **climate indicators, conflict data, and market price information** to capture factors associated with food insecurity. Model performance was evaluated using classification metrics such as **precision, recall, F1-score, and ROC-AUC** to determine the most effective approach for early risk detection.
+- Conducted **exploratory data analysis (EDA)** to identify patterns, correlations, and potential predictors associated with food insecurity outcomes.
 
-**Deployment**
+- Trained and compared multiple **supervised machine learning classification models**, including **Logistic Regression, Random Forest, and XGBoost**, to predict counties at high risk.
 
-The final model was **deployed on Hugging Face Spaces** as an interactive application. The deployed tool includes a **dashboard interface** that allows users to explore county-level predictions and visualize food insecurity risk trends.
+- Evaluated model performance using **classification metrics** such as **precision, recall, F1-score, and ROC-AUC**, selecting the most effective model for early risk detection.
+
+- Implemented an **end-to-end machine learning pipeline** from data preprocessing and model training to evaluation and deployment.
+
+- Deployed the final model on **Hugging Face Spaces** as an **interactive dashboard application**, enabling users to explore **county-level predictions and visualize food insecurity risk trends** in real time.
 
 ---
