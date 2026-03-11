@@ -5,7 +5,7 @@ This repository contains selected data science projects demonstrating skills in 
 # Project 1: Created County-Level Acute Food Insecurity Early Warning System (Kenya)
 
 **Project Overview**
-![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/newplot.png)
+> ![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/newplot.png)
 
 - Developed a **county-level early warning system** to predict **acute food insecurity (IPC Phase 3+) in Kenya one month in advance**, enabling earlier identification of high-risk regions for policy and humanitarian response.
 
