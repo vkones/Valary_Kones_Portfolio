@@ -22,6 +22,8 @@ This repository contains selected data science projects demonstrating skills in 
 
 - Deployed the final model on **Hugging Face Spaces** as an **interactive dashboard application**, enabling users to explore **county-level predictions and visualize food insecurity risk trends** in real time.
 
+![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/output.png)
+
 **Repository**
 
 [View Project](https://github.com/vkones/PHASE-5-Food-Insecurity)
@@ -31,6 +33,7 @@ This repository contains selected data science projects demonstrating skills in 
 
 ---
 # Project 2:Movie Recommendation System
+![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/mov_img.jpg)
 
 **Project Overview**
 
@@ -45,12 +48,15 @@ Developed a **personalized movie recommendation engine** that predicts user pref
 - Performed **error analysis and residual diagnostics** to assess prediction bias and model reliability across rating ranges.
 - Designed a **Top-N recommendation pipeline** capable of generating personalized movie suggestions for users.
 
+![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/Distribution%20of%20Users%20and%20Ratings.png)
+
 **Repository**
 
 [View Project](https://github.com/vkones/Movie-Recommendation-System/tree/main)
 
 ---
 # Project 3: H1N1 Vaccination Behavior Analysis
+![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/H1N1_Vaccine.jpg)
 
 **Project Overview**
 
@@ -63,6 +69,8 @@ This project analyzes behavioral and demographic factors influencing H1N1 vaccin
 - Evaluated model performance using **ROC-AUC, precision, recall, and F1-score**.
 - Achieved **ROC-AUC = 0.83**, indicating strong predictive performance.
 - Identified important predictors including **risk perception, healthcare access, and demographic characteristics**.
+
+![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/log_odds.png)
 
 **Repository**
 
@@ -82,6 +90,8 @@ This project analyzes historical aviation accident data to identify safety trend
 - Conducted exploratory analysis to identify **patterns in accident frequency and survivability**.
 - Investigated relationships between **aircraft characteristics and accident severity**.
 - Built **data visualizations and dashboards** to communicate safety trends.
+
+![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/Aviation%20accidents%20Dashboard.png)
 
 **Repository**
 
@@ -103,7 +113,7 @@ This team project analyzes film industry data to understand the factors that inf
 - Developed visualizations highlighting **revenue trends and audience preferences**.
 - Generated insights to support **data-driven decision-making for film production investments**.
 
-
+![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/Average%20Profitability%20by%20Genre.png)
 **Repository**
 
 [View Project](https://github.com/MrDenzy/Phase-2-Project)
