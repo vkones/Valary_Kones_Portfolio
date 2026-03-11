@@ -1,4 +1,4 @@
-# Valary Kones_Portfolio
+# Valary Kones Portfolio
 This repository contains selected data science projects demonstrating skills in data cleaning, exploratory data analysis (EDA), machine learning, and data visualization. The projects focus on transforming real-world datasets into actionable insights using Python and modern data analysis tools.
 
 ---
@@ -24,13 +24,33 @@ This repository contains selected data science projects demonstrating skills in 
 
 **Repository**
 
-[View Project])(https://github.com/vkones/PHASE-5-Food-Insecurity)
+[View Project](https://github.com/vkones/PHASE-5-Food-Insecurity)
 
 **Live Application:**  
 [View Interactive Dashboard](https://huggingface.co/spaces/mcshoja/FoodInsecurityDashboard)
 
 ---
-# Project 2: H1N1 Vaccination Behavior Analysis
+# Project 2:Movie Recommendation System
+
+**Project Overview**
+
+Developed a **personalized movie recommendation engine** that predicts user preferences and generates **Top-5 movie recommendations** using collaborative filtering techniques. The system compares multiple recommendation algorithms to identify the most accurate model for predicting user ratings and improving content discovery.
+
+**Key Contributions**
+
+- Built a **recommender system using collaborative filtering algorithms**, including **KNN-based models, Singular Value Decomposition (SVD), and Non-Negative Matrix Factorization (NMF)**.
+- Conducted **exploratory data analysis (EDA)** on the MovieLens dataset (100K+ ratings, 9,700+ movies) to understand rating distributions, user activity patterns, and long-tail item popularity.
+- Implemented **train/test split and cross-validation with GridSearch** to tune model hyperparameters and improve prediction accuracy.
+- Evaluated recommendation performance using **RMSE and MAE**, achieving **RMSE = 0.86** with a tuned SVD model.
+- Performed **error analysis and residual diagnostics** to assess prediction bias and model reliability across rating ranges.
+- Designed a **Top-N recommendation pipeline** capable of generating personalized movie suggestions for users.
+
+**Repository**
+
+[View Project](https://github.com/vkones/Movie-Recommendation-System/tree/main)
+
+---
+# Project 3: H1N1 Vaccination Behavior Analysis
 
 **Project Overview**
 
@@ -50,7 +70,7 @@ This project analyzes behavioral and demographic factors influencing H1N1 vaccin
 
 ---
 
-# Project 3: Aviation Accident Safety Analysis
+# Project 4: Aviation Accident Safety Analysis
 
 **Project Overview**
 
@@ -69,7 +89,7 @@ This project analyzes historical aviation accident data to identify safety trend
 
 ---
 
-# Project 4: Movie Industry Profitability Analysis
+# Project 5: Movie Industry Profitability Analysis
 
 **Project Overview**
 
@@ -97,7 +117,12 @@ This team project analyzes film industry data to understand the factors that inf
 - Feature Engineering  
 - Machine Learning  
 - Statistical Analysis  
-- Data Visualization  
+- Data Visualization
+- Recommender Systems  
+- Collaborative Filtering  
+- Model Selection & Hyperparameter Tuning  
+- Cross-Validation  
+- Error Analysis    
 
 **Tools:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Tableau, Jupyter Notebook
 
