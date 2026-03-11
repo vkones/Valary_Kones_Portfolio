@@ -2,7 +2,7 @@
 This repository contains selected data science projects demonstrating skills in data cleaning, exploratory data analysis (EDA), machine learning, and data visualization. The projects focus on transforming real-world datasets into actionable insights using Python and modern data analysis tools.
 
 ---
-# Project 1: Created County-Level Acute Food Insecurity Early Warning System (Kenya)
+# [Project 1: Created County-Level Acute Food Insecurity Early Warning System (Kenya)](https://github.com/vkones/PHASE-5-Food-Insecurity)
 
 **Project Overview**
 
